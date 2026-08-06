@@ -33,7 +33,7 @@ The contract owner can enable or disable a resale fee, capped at a hard maximum 
 
 ### Smart Waitlist System
 When a tier sells out, interested buyers can join a waitlist instead of being turned away entirely. Organizers choose, per event, how freed-up slots are distributed:
-- **Automatic Transfer** — the next waitlisted buyer receives the ticket the moment a slot opens, no action required from them.
+- **Automatic Transfer** the next waitlisted buyer receives the ticket the moment a slot opens, no action required from them.
 - **Time-Window Offer** — the buyer is offered the slot and given a fixed window to claim it before it passes to the next person in line.
 
 ### Dual-Mode Check-In
