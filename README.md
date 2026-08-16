@@ -22,10 +22,10 @@ This shifts trust away from a platform's internal moderation and onto code that 
 ## Core Features
 
 ### Flexible Pricing Tiers
-Organizers aren't locked into a rigid "Early Bird / General / VIP" structure. Each event can have any number of custom tiers — different names, prices, and supply counts, defined entirely by the organizer. Tiers can be configured to automatically open the next tier the moment the current one sells out, or the organizer can manually open and close tiers at will for more granular control over pacing.
+Organizers aren't locked into a rigid "Early Bird / General / VIP" structure. Each event can have any number of custom tiers different names, prices, and supply counts, defined entirely by the organizer. Tiers can be configured to automatically open the next tier the moment the current one sells out, or the organizer can manually open and close tiers at will for more granular control over pacing.
 
 ### On-Chain Resale Cap
-Every event carries its own resale ceiling, set once at creation as a percentage (in basis points) of the original price. The cap is checked against whatever the *current* holder actually paid  not the original face value  so the ceiling stays meaningful even after multiple resales.
+Every event carries its own resale ceiling, set once at creation as a percentage (in basis points) of the original price. The cap is checked against whatever the *current* holder actually paid  not the original face value  so the ceiling stays meaningful even after multiple resales
 
 ### Optional Platform Resale Fee
 The contract owner can enable or disable a resale fee, capped at a hard maximum of 20% to prevent abuse. When enabled, this fee is automatically deducted from the seller's proceeds at the moment of resale and tracked separately for withdrawal
@@ -33,11 +33,11 @@ The contract owner can enable or disable a resale fee, capped at a hard maximum 
 ### Smart Waitlist System
 When a tier sells out, interested buyers can join a waitlist instead of being turned away entirely. Organizers choose, per event, how freed-up slots are distributed:
 - **Automatic Transfer** the next waitlisted buyer receives the ticket the moment a slot opens, no action required from them.
-- **Time-Window Offer** — the buyer is offered the slot and given a fixed window to claim it before it passes to the next person in line.
+- **Time-Window Offer**  the buyer is offered the slot and given a fixed window to claim it before it passes to the next person in line.
 
 ### Dual-Mode Check-In
 Custodia supports two ways to verify a ticket at the door, depending on how much control an event needs:
-- `isValidTicketHolder()` — a lightweight, gasless view function anyone can call to confirm a wallet currently holds a valid, unrefunded ticket.
+- `isValidTicketHolder()`  a lightweight, gasless view function anyone can call to confirm a wallet currently holds a valid, unrefunded ticket.
 - `checkIn()` — an organizer-only function that permanently marks a specific ticket as checked in on-chain, useful for events that need an auditable attendance record.
 
 ### Cancellation & Batch Refunds
