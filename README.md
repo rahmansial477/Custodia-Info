@@ -7,7 +7,7 @@ Custodia is a decentralized event ticketing protocol built on GIWA Sepolia. It g
 
 ## The Problem
 
-Ticket scalping has been a broken part of live events for decades. The moment tickets go on sale, bots and resellers buy up entire tiers in seconds, then relist them on secondary markets at 3x, 5x, sometimes 10x the original price. Real fans — the people the event was actually priced for — either get locked out entirely or forced to pay a scalper's markup just to attend.
+Ticket scalping has been a broken part of live events for decades. The moment tickets go on sale, bots and resellers buy up entire tiers in seconds, then relist them on secondary markets at 3x, 5x, sometimes 10x the original price. Real fans  the people the event was actually priced for — either get locked out entirely or forced to pay a scalper's markup just to attend.
 
 Centralized ticketing platforms have tried to solve this with manual policy enforcement: banning bulk purchases, requiring ID verification, capping resale on their own marketplace. It mostly doesn't work, because none of those rules are enforced anywhere except inside a company's internal database — easy to route around with new accounts, different payment methods, or simply reselling off-platform.
 
