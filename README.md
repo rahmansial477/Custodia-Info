@@ -25,7 +25,7 @@ This shifts trust away from a platform's internal moderation and onto code that 
 Organizers aren't locked into a rigid "Early Bird / General / VIP" structure. Each event can have any number of custom tiers — different names, prices, and supply counts, defined entirely by the organizer. Tiers can be configured to automatically open the next tier the moment the current one sells out, or the organizer can manually open and close tiers at will for more granular control over pacing.
 
 ### On-Chain Resale Cap
-Every event carries its own resale ceiling, set once at creation as a percentage (in basis points) of the original price. The cap is checked against whatever the *current* holder actually paid — not the original face value  so the ceiling stays meaningful even after multiple resales.
+Every event carries its own resale ceiling, set once at creation as a percentage (in basis points) of the original price. The cap is checked against whatever the *current* holder actually paid  not the original face value  so the ceiling stays meaningful even after multiple resales.
 
 ### Optional Platform Resale Fee
 The contract owner can enable or disable a resale fee, capped at a hard maximum of 20% to prevent abuse. When enabled, this fee is automatically deducted from the seller's proceeds at the moment of resale and tracked separately for withdrawal
