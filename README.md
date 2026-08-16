@@ -15,7 +15,7 @@ Centralized ticketing platforms have tried to solve this with manual policy enfo
 
 Custodia moves the rule itself onto the blockchain. When an organizer creates an event, they set a resale cap as a percentage of the original purchase price — for example, 110%, meaning a ticket can never be resold for more than 10% above what its current holder paid. This isn't a policy that a support team enforces after the fact. It's a `require()` statement in the smart contract. If someone tries to list a ticket above the cap, the transaction simply reverts. There's no way around it that doesn't involve rewriting the contract itself.
 
-This shifts trust away from a platform's internal moderation and onto code that anyone can read, verify, and audit.
+This shifts trust away from a platform's internal moderation and onto code that anyone can read verify and audit.
 
 ---
 
