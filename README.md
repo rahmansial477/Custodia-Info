@@ -105,7 +105,7 @@ A traditional ticketing backend could technically enforce a resale cap too — b
   As GIWA-native stablecoins become available, extend the payment flow to support ERC20 tokens alongside native ETH, giving organizers and buyers price stability options.
 
 - **Phase 3 — Organizer Tools**
-  A dedicated analytics dashboard for organizers — sales breakdown by tier, resale activity, waitlist conversion — plus bulk tier management and CSV export of attendee/check-in data for offline event operations.
+  A dedicated analytics dashboard for organizers  sales breakdown by tier, resale activity, waitlist conversion  plus bulk tier management and CSV export of attendee/check-in data for offline event operations.
 
 - **Phase 4 — Mainnet & Mobile Check-In**
   Full mainnet deployment alongside a dedicated mobile scanner app for door staff, and support for multi-organizer team accounts so larger events can delegate check-in and tier management.
