@@ -28,7 +28,7 @@ Organizers aren't locked into a rigid "Early Bird / General / VIP" structure. Ea
 Every event carries its own resale ceiling, set once at creation as a percentage (in basis points) of the original price. The cap is checked against whatever the *current* holder actually paid — not the original face value  so the ceiling stays meaningful even after multiple resales.
 
 ### Optional Platform Resale Fee
-The contract owner can enable or disable a resale fee, capped at a hard maximum of 20% to prevent abuse. When enabled, this fee is automatically deducted from the seller's proceeds at the moment of resale and tracked separately for withdrawal.
+The contract owner can enable or disable a resale fee, capped at a hard maximum of 20% to prevent abuse. When enabled, this fee is automatically deducted from the seller's proceeds at the moment of resale and tracked separately for withdrawal
 
 ### Smart Waitlist System
 When a tier sells out, interested buyers can join a waitlist instead of being turned away entirely. Organizers choose, per event, how freed-up slots are distributed:
