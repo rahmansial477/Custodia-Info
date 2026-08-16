@@ -2,7 +2,7 @@
 
 **Anti-scalping event ticketing, enforced entirely on-chain.**
 
-Custodia is a decentralized event ticketing protocol built on GIWA Sepolia. It gives organizers full control over how they sell tickets  flexible pricing tiers, dynamic tier progression, waitlists  while making scalping mathematically impossible at the smart contract level. Every purchase, resale, check-in, cancellation, and refund is recorded and enforced on-chain, with no centralized authority deciding what's "fair."
+Custodia is a decentralized event ticketing protocol built on GIWA Sepolia. It gives organizers full control over how they sell tickets  flexible pricing tiers, dynamic tier progression, waitlists  while making scalping mathematically impossible at the smart contract level. Every purchase, resale, check-in cancellation and refund is recorded and enforced on-chain, with no centralized authority deciding what's "fair."
 
 
 ## The Problem
