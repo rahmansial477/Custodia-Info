@@ -2,12 +2,12 @@
 
 **Anti-scalping event ticketing, enforced entirely on-chain.**
 
-Custodia is a decentralized event ticketing protocol built on GIWA Sepolia. It gives organizers full control over how they sell tickets  flexible pricing tiers, dynamic tier progression, waitlists  while making scalping mathematically impossible at the smart contract level. Every purchase, resale, check-in cancellation and refund is recorded and enforced on-chain, with no centralized authority deciding what's "fair."
+Custodia is a decentralized event ticketing protocol built on GIWA Sepolia. It gives organizers full control over how they sell tickets  flexible pricing tiers, dynamic tier progression, waitlists  while making scalping mathematically impossible at the smart contract level. Every purchase, resale, check-in cancellation and refund is recorded and enforced on-chain, with no centralized authority deciding what's fair.
 
 
 ## The Problem
 
-Ticket scalping has been a broken part of live events for decades. The moment tickets go on sale, bots and resellers buy up entire tiers in seconds, then relist them on secondary markets at 3x, 5x, sometimes 10x the original price. Real fans  the people the event was actually priced for — either get locked out entirely or forced to pay a scalper's markup just to attend.
+Ticket scalping has been a broken part of live events for decades. The moment tickets go on sale, bots and resellers buy up entire tiers in seconds, then relist them on secondary markets at 3x, 5x, sometimes 10x the original price. Real fans  the people the event was actually priced for  either get locked out entirely or forced to pay a scalper's markup just to attend.
 
 Centralized ticketing platforms have tried to solve this with manual policy enforcement: banning bulk purchases, requiring ID verification, capping resale on their own marketplace. It mostly doesn't work, because none of those rules are enforced anywhere except inside a company's internal database  easy to route around with new accounts, different payment methods, or simply reselling off-platform.
 
