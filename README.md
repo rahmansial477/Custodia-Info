@@ -117,7 +117,7 @@ A traditional ticketing backend could technically enforce a resale cap too — b
 
 ## Disclaimer
 
-Custodia is an independent project built on GIWA Sepolia testnet as part of ongoing ecosystem development. It is not an official GIWA product and is not affiliated with, endorsed by, or sponsored by Upbit or Dunamu.
+Custodia is an independent project built on GIWA Sepolia testnet as part of ongoing ecosystem development. It is not an official GIWA product and is not affiliated with, endorsed by, or sponsored by Upbit or Dunamu
 
 ---
 
